@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+.headings{
+    width : 70%;
+}
+.table{
+    width : 70%;
+}
+td{
+    font-size : 18px;
+}

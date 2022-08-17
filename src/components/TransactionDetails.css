@@ -1,0 +1,23 @@
+*{
+    margin : 0;
+    padding :0;
+}
+table{
+    margin-top: 12px;
+    /* font-size: 12px;
+    width : 100%; */
+}
+thead{
+    
+    background-color : black;
+}
+thead th{
+    color:white;
+    text-align: center;
+}
+.values{
+    font-size: 1px;
+}
+tbody{
+    font-weight: 1px!important;
+}
